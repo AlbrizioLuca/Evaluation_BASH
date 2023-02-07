@@ -1,0 +1,11 @@
+Manuel d'utilisation : 
+
+        - lancer le script menu.sh 
+        - le message "Passez la commande" s'affiche et a ce moment là il faudra toujours utiliser les touches "o" ou  "n" + les touches numériques afin de selectionner les plats choisis par les clients.
+        - toute commande doit etre validée par la touche "entrée"
+
+N.B: le script n'est pas totalement abouti:
+
+    - le calcul se lance en fin de commande et sans appuyer "t"
+    - le montant est hors taxe, je n'ai pas réussi à installer la commande bc sur le terminal, voir commentaire et fichier joint
+    - il manque des conditions pour eviter toute erreur de frappe, et saisie (s'il ne saisit pas "o" ou "n" mais une autre lettre, et si au lieu de saisir un numéro de plat il saisit une lettre ou un nombre non)

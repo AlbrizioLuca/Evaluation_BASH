@@ -1,0 +1,29 @@
+#############################################
+#               Au Bon GlouMiam             #
+#-------------------------------------------#
+#       Entrées                             #
+#                                           #
+#   -1  croquettes de poisson chat  - 12€   #
+#   -2  filets de pimp              - 8€    #
+#   -3  soufflé braisé              - 3€    #
+#-------------------------------------------#
+#       Plats                               #
+#                                           #
+#   -4  salade décomposée           - 17€   #
+#   -5  agneau déconfiné            - 23€   #
+#   -6  entrecote dégraissée        - 27€   #
+#   -7  pelardon désseché           - 5€    #
+#                                           #
+#-------------------------------------------#
+#       Desserts                            #
+#                                           #
+#   -8  copeaux de safran vanillés  - 9€    #
+#   -9  café mouillette             - 1€    #
+#                                           #
+#-------------------------------------------#
+#       Boissons                            #
+#                                           #
+#   -10 coca cola aux glacons       - 3€    #
+#   -11 smoothie champignons/radis  - 8€    #
+#                                           #
+#############################################
